@@ -1,5 +1,5 @@
 _repo: First-Base-Faulkner_64435
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Relyea, C. M. (Charles M.)
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '8637'
     url: http://www.gutenberg.org/2009/agents/8637
     wikipedia: https://en.wikipedia.org/wiki/Charles_M._Relyea
+covers:
+- cover_type: archival
+  image_path: 64435-h/images/cover.jpg
 creator:
   author:
     agent_name: Mathewson, Christy
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36313
     wikipedia: https://en.wikipedia.org/wiki/Christy_Mathewson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64435#First-Base-Faulkner
 gutenberg_issued: '2021-01-31'
 gutenberg_type: Text
 identifiers:
